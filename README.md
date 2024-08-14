@@ -1,20 +1,29 @@
 NAME : SRI BHARATH KRISHNA BEZAWADA
+
 COMPANY : CODETECH IT SLOUTIONS
+
 ID : CT08DS6304
+
 DOMAIN : DATA SCIENTIST
+
 DURATION : AUG TO SEPT 2024
-MENTOR :
+
+MENTOR : Neela Santhosh Kumar
 
 
 OVERVIEW OF THE PROJECT
+
 PROJECT :PREDICTIVE MODELING WITH LINEAR REGRESSION
 
 OBJECTIVE
+
+
 In predictive modeling with linear regression, the primary objective is to establish a 
 relationship between one or more independent variables (predictors) and a dependent 
 variable (outcome) to make accurate predictions or inferences
 
 KEY ACTIVITES
+
 Quantify Relationships: Determine the strength and nature of the relationship between the 
 independent variables and the dependent variable. Linear regression helps in quantifying how
 changes in predictor variables are associated with changes in the outcome variable.
@@ -36,8 +45,13 @@ Model Refinement: Continuously improve the model by adjusting parameters, incorp
 transforming variables to better capture the underlying data patterns and enhance predictive accuracy.
 
 TECHNOLOGIES USED
+
 PYTHON - Python: Widely used due to its rich ecosystem of libraries and tools for data analysis and modeling. Key libraries include:
+
 scikit-learn: Provides a comprehensive suite of tools for building and evaluating linear regression models.
+
 Statsmodels: Offers detailed statistical modeling, including linear regression with extensive diagnostic output.
+
 Pandas: Useful for data manipulation and preparation.
+
 NumPy: Provides support for numerical operations, which are fundamental in regression analysis.
