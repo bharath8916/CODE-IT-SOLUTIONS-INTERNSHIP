@@ -55,3 +55,8 @@ Statsmodels: Offers detailed statistical modeling, including linear regression w
 Pandas: Useful for data manipulation and preparation.
 
 NumPy: Provides support for numerical operations, which are fundamental in regression analysis.
+
+OUTPUT
+
+![The-prediction-models-of-Chla-yield-based-on-multiple-linear-regression-analysis-and-the](https://github.com/user-attachments/assets/ed9122f3-703b-42e8-bd8a-5f20027f82d1)
+
