@@ -58,7 +58,9 @@ NumPy: Provides support for numerical operations, which are fundamental in regre
 
 OUTPUT
 
+
 <img width="708" alt="Screenshot 2024-08-21 at 9 57 13 PM" src="https://github.com/user-attachments/assets/02282ff6-6b9a-4eb5-8e67-f1dc6f5accf7"> 
+
 
 
 
